@@ -6,6 +6,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
+#main function
 def main():
     try:
         # Initialize converter
