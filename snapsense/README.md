@@ -9,11 +9,11 @@ The application utilizes BLIP for captioning, ViLT for Visual Question Answering
 ![SnapSense in Action](examples/SnapSense.gif)
 
 ## Contributors
-- **Dhanashri Deshpande** - https://www.linkedin.com/in/ddhanashri/
-- **Saumya Mishra** - https://www.linkedin.com/in/saumya-mishra-a85430156/
-- **Poorva Barve** - https://www.linkedin.com/in/poorvabarve/
-- **Alka Tripathi** - https://www.linkedin.com/in/alka-t/
-- **Ronald Rommel Myloth** - https://www.linkedin.com/in/ronald-rommel/
+- **Dhanashri Deshpande**
+- **Saumya Mishra**
+- **Poorva Barve**
+- **Alka Tripathi**
+- **Ronald Rommel Myloth**
   
 ## Features
 - **Real-Time Image Captioning**: Generates captions using a pre-trained BLIP model.
